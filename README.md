@@ -1,5 +1,4 @@
 # meu-projeto-backend2
-# meu-projeto-backend
 
 # Rode estes comandos para preparar o ambiete.
 ```
